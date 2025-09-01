@@ -1,7 +1,5 @@
 # LAVAMANAGER DLC:
 
-Well-come!
-
 This is a repository of DLC and Exports, converted to work in LavaManager for RB3E Wii (Rock Band 3 Enhanced).
 All songs will be pre-packaged with upgrades from the RBHP (Rock Band Harmonies Project) and RB3PLUS (Rock Band 3 Plus).
 The goal of this repo is to make Wii more accessable, and to allow songs to be in an open-folder structure for simple adding and editing.
