@@ -1,0 +1,41 @@
+# LAVAMANAGER DLC:
+
+Well-come!
+
+This is a repository of DLC, converted to work in LavaManager for RB3E Wii (Rock Band 3 Enhanced).
+All songs will be pre-packaged with upgrades from the RBHP (Rock Band Harmonies Project) and RB3PLUS (Rock Band 3 Plus).
+The goal of this repo is to make Wii DLC more accessable, and allow it to be in an open-folder structure for simple adding and editing of DLC.
+
+Currently, not every song is 100% compatable with Wii Hardware, but should work in Dolphin no problem!
+This is being planned to be fixed up in the future. 
+
+Try it on Wii at your own risk!
+
+(please note Wii online multiplayer has not been tested, but again Dolphin should be a-ok)
+
+# INSTALLATION
+
+Simply install [RB3E](https://github.com/RBEnhanced/RB3Enhanced), and download [LavaManager](https://github.com/RBEnhanced/RB3Enhanced). 
+Select your RB3 folder on your SD Card within the program.
+Drag over the "RB3" folder downloaded within each assigned export or DLC folder into the same folder your RB3E's RB3 Folder.
+Reload your song list on LavaManager, and hit finalize.
+You should see your added songs in LavaManager at this point.
+
+Now just launch RB3E, and play!
+
+# DOLPHIN NOTES
+
+It's recommended you make an SD card file using the Virtual SD Card Maker tool, using the ImDisk Virtual Disk Driver to mount and edit it.
+You ARE able to use Dolphin's WiiSDSync folder, however the automatic sync will take a VERY long time when many songs are added.
+
+Both programs and guides are found at [HERE](https://dolphin-emu.org/docs/guides/virtual-sd-card-guide/).
+
+# ACKNOWLEDGEMENT
+
+- https://github.com/RBEnhanced/RB3Enhanced
+- https://github.com/InvoxiPlayGames/LavaManager
+- https://github.com/rjkiv/rb3_plus
+- https://github.com/FujiSkunk/rbhp
+
+Without the contributions of the people behind these projects, none of this would be possible.
+Sincerest thank yous.
