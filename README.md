@@ -28,7 +28,7 @@ Now just launch RB3E, and play!
 It's recommended you make an SD card file using the Virtual SD Card Maker tool, using the ImDisk Virtual Disk Driver to mount and edit it.
 You ARE able to use Dolphin's WiiSDSync folder, however the automatic sync will take a VERY long time when many songs are added.
 
-Both programs and guides are found at [HERE](https://dolphin-emu.org/docs/guides/virtual-sd-card-guide/).
+Both programs and guides are found [HERE](https://dolphin-emu.org/docs/guides/virtual-sd-card-guide/).
 
 # ACKNOWLEDGEMENT
 
