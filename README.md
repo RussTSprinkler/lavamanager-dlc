@@ -1,7 +1,7 @@
 # LAVAMANAGER DLC:
 
 This is a repository of DLC and Exports, converted to work in LavaManager for RB3E Wii (Rock Band 3 Enhanced).
-All songs will be pre-packaged with upgrades from the RBHP (Rock Band Harmonies Project) and RB3PLUS (Rock Band 3 Plus).
+All songs will *eventually* be pre-packaged with upgrades from the RBHP (Rock Band Harmonies Project), RB3PLUS (Rock Band 3 Plus), and RB4PLUS (Rock Band 4 Plus).
 The goal of this repo is to make Wii more accessable, and to allow songs to be in an open-folder structure for simple adding and editing.
 
 Currently, not every song is 100% compatable with Wii Hardware, but should work in Dolphin no problem!
@@ -34,6 +34,7 @@ Both programs and guides are found [HERE](https://dolphin-emu.org/docs/guides/vi
 - https://github.com/InvoxiPlayGames/LavaManager
 - https://github.com/rjkiv/rb3_plus
 - https://github.com/FujiSkunk/rbhp
+- https://github.com/rhythm-game-songs/rb4_plus
 
 Without the contributions of the people behind these projects, none of this would be possible.
-Sincerest thank yous.
+Sincerest thank yous!
