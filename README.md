@@ -34,6 +34,7 @@ Both programs and guides are found [HERE](https://dolphin-emu.org/docs/guides/vi
 - https://github.com/InvoxiPlayGames/LavaManager
 - https://github.com/rjkiv/rb3_plus
 - https://github.com/FujiSkunk/rbhp
+- https://github.com/rhythm-game-songs/rb4_plus
 
 Without the contributions of the people behind these projects, none of this would be possible.
-Sincerest thank yous.
+Sincerest thank yous!
