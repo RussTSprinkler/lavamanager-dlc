@@ -1,0 +1,67 @@
+(dammit 
+   (name "Dammit") 
+   (artist "Blink-182") 
+   (master 1) 
+   (song 
+      (name "songs/dammit/dammit") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -2.0 -2.0 -2.0 -2.0 -3.5 -1.8 -1.8 -3.6 -3.6 -3.0 -3.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 168856) 
+   (preview 86000 116000) 
+   (rank 
+      (band 307) 
+      (real_keys 0) 
+      (guitar 266) 
+      (real_bass 147) 
+      (drum 402) 
+      (bass 230) 
+      (keys 0) 
+      (vocals 135) 
+      (real_guitar 193)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1997) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 1005277) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb3dlc) 
+   (encoding utf8) 
+   (album_name "Dude Ranch") 
+   (album_track_number 3) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0))

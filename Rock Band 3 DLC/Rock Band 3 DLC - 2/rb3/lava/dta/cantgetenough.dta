@@ -1,0 +1,61 @@
+(cantgetenough 
+   (name "Can't Get Enough") 
+   (artist "Bad Company") 
+   (master TRUE) 
+   (song_id 1010030) 
+   (song 
+      (name "songs/cantgetenough/cantgetenough") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 3) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)))) 
+      (vocal_parts 1) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.3 -2.3 -2.3 -4.5 -2.5 -2.5 -3.0 -3.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/cowbell_bank.milo) 
+   (drum_bank sfx/kit03_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_scroll_speed 2300) 
+   (preview 34915 63352) 
+   (song_length 255206) 
+   (rank 
+      (drum 274) 
+      (guitar 285) 
+      (real_guitar 235) 
+      (bass 220) 
+      (real_bass 240) 
+      (vocals 314) 
+      (keys 0) 
+      (real_keys 0) 
+      (band 275)) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (real_guitar 235) 
+   (format 10) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 2) 
+   (genre classicrock) 
+   (vocal_gender male) 
+   (year_released 1974) 
+   (album_art TRUE) 
+   (album_name "Bad Company") 
+   (album_track_number 1) 
+   (vocal_tonic_note 0) 
+   (song_tonality 0))
