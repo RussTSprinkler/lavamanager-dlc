@@ -1,0 +1,66 @@
+(whatsername 
+   (name "Whatsername") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/whatsername/whatsername") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 
+               (3)) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)))) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 250136) 
+   (preview 159288 189288) 
+   (rank 
+      (band 179) 
+      (real_keys 0) 
+      (guitar 186) 
+      (real_bass 208) 
+      (drum 139) 
+      (bass 184) 
+      (keys 0) 
+      (vocals 205) 
+      (real_guitar 208)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 3008) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8)
+   (author "Harmonix, Strings: JohnSmith")   
+   (album_name "American Idiot") 
+   (album_track_number 13) 
+   (vocal_tonic_note 2) 
+   (song_tonality 1))

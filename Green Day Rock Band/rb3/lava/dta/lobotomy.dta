@@ -1,0 +1,63 @@
+(lobotomy
+   (name "Before the Lobotomy") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/lobotomy/lobotomy") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-7.0 -7.0 -5.0 -5.0 -6.0 -6.0 -4.0 -4.0 -4.0 -3.0 -3.0 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 283337) 
+   (preview 135976 164954) 
+   (rank 
+      (band 235) 
+      (real_keys 0) 
+      (guitar 204) 
+      (real_bass 0) 
+      (drum 266) 
+      (bass 175) 
+      (keys 0) 
+      (vocals 268) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2009) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 3043) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "21st Century Breakdown") 
+   (album_track_number 5) 
+   (vocal_tonic_note 6) 
+   (song_tonality 1))

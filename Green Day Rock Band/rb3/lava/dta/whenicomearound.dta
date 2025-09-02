@@ -1,0 +1,67 @@
+(whenicomearound 
+   (name "When I Come Around") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/whenicomearound/whenicomearound") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-2.2 -2.5 -5.5 -5.5 -2.0 -5.5 -5.5 -4.7 -4.7 -5.5 -5.5 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 11 12) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 183355) 
+   (preview 58000 88000) 
+   (rank 
+      (band 230) 
+      (real_keys 0) 
+      (guitar 160) 
+      (real_bass 315) 
+      (drum 241) 
+      (bass 260) 
+      (keys 0) 
+      (vocals 218) 
+      (real_guitar 160)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1994) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 3040) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8)
+   (author "Harmonix")   
+   (album_name "Dookie") 
+   (album_track_number 10) 
+   (vocal_tonic_note 6) 
+   (song_tonality 1))

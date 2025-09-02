@@ -1,0 +1,66 @@
+(americanidiot 
+   (name "American Idiot") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/americanidiot/americanidiot") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-2.1 -4.1 -4.1 -4.1 -4.1 -3.6 -5.0 -5.0 -6.7 -6.7 -6.1 -6.1 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 12 13) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 180678) 
+   (preview 13637 42173) 
+   (rank 
+      (band 260) 
+      (real_keys 0) 
+      (guitar 235) 
+      (real_bass 231) 
+      (drum 301) 
+      (bass 202) 
+      (keys 0) 
+      (vocals 215) 
+      (real_guitar 285)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 3001) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "American Idiot") 
+   (album_track_number 1) 
+   (vocal_tonic_note 8) 
+   (song_tonality 1))

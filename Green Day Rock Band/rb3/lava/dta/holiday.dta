@@ -1,0 +1,60 @@
+(holiday 
+   (name "Holiday") 
+   (artist "Green Day") 
+   (master TRUE) 
+   (context 1121) 
+   (song 
+      (name "songs/holiday/holiday") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 5) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (crowd_channels 12 13) 
+      (vocal_parts 3) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-3.8 -6.3 -6.3 -8.3 -8.3 -5.8 -5.6 -5.6 -5.8 -5.8 -6.5 -6.5 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file "songs/holiday/holiday.mid")) 
+   (song_scroll_speed 2300) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (preview 37569 67569) 
+   (rank 
+      (drum 252) 
+      (guitar 191) 
+      (bass 160) 
+      (vocals 253) 
+      (band 221)) 
+   (genre rock) 
+   (decade the00s) 
+   (vocal_gender male) 
+   (vocal_tonic_note 5) 
+   (format 5) 
+   (version 1) 
+   (fake 
+      {== $SONG_VERSION 0 }) 
+   (downloaded TRUE) 
+   (game_origin greenday) 
+   (song_id 3002) 
+   (rating 2) 
+   (short_version 126159) 
+   (song_length 240454) 
+   (album_art TRUE) 
+   (year_released 2004) 
+   (album_name "American Idiot") 
+   (album_track_number 3) 
+   (base_points 549079))

@@ -1,0 +1,65 @@
+(thestaticage 
+   (name "The Static Age") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/thestaticage/thestaticage") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.1 -5.3 -5.3 -5.3 -5.3 -5.8 -5.3 -5.3 -4.3 -4.3 -5.3 -5.3)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 266704) 
+   (preview 34377 63111) 
+   (rank 
+      (band 255) 
+      (real_keys 0) 
+      (guitar 247) 
+      (real_bass 0) 
+      (drum 272) 
+      (bass 183) 
+      (keys 0) 
+      (vocals 191) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2009) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 3042) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "21st Century Breakdown") 
+   (album_track_number 15) 
+   (vocal_tonic_note 11) 
+   (song_tonality 1))

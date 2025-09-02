@@ -1,0 +1,63 @@
+(chump 
+   (name "Chump") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/chump/chump") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6)))) 
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-2.5 -2.5 -1.5 -3.5 -3.5 -1.5 -1.5 -1.5 -1.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 180188) 
+   (preview 8288 38289) 
+   (rank 
+      (band 386) 
+      (real_keys 0) 
+      (guitar 303) 
+      (real_bass 0) 
+      (drum 406) 
+      (bass 304) 
+      (keys 0) 
+      (vocals 224) 
+      (real_guitar 0)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1994) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 3030) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "Dookie") 
+   (album_track_number 3) 
+   (vocal_tonic_note 10) 
+   (song_tonality 1))

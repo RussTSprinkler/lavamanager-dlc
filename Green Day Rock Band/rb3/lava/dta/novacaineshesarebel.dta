@@ -1,0 +1,65 @@
+(novacaineshesarebel 
+   (name "Give Me Novacaine/She's a Rebel") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/novacaineshesarebel/novacaineshesarebel") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -2.5 -2.5 -3.0 -3.0 -2.9 -2.5 -2.5 -2.3 -2.3 -2.5 -2.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 332136) 
+   (preview 188453 218453) 
+   (rank 
+      (band 252) 
+      (real_keys 0) 
+      (guitar 260) 
+      (real_bass 0) 
+      (drum 255) 
+      (bass 220) 
+      (keys 0) 
+      (vocals 275) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 3016) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "American Idiot") 
+   (album_track_number 7) 
+   (vocal_tonic_note 9) 
+   (song_tonality 1))

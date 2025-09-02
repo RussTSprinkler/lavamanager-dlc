@@ -1,0 +1,63 @@
+(niceguys 
+   (name "Nice Guys Finish Last") 
+   (artist "Green Day") 
+   (master 1) 
+   (song 
+      (name "songs/niceguys/niceguys") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-2.5 -2.5 -2.5 -2.5 -2.5 -2.2 -2.0 -2.0 -2.5 -2.5 -2.5 -2.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 173204) 
+   (preview 50712 80712) 
+   (rank 
+      (band 276) 
+      (real_keys 0) 
+      (guitar 219) 
+      (real_bass 0) 
+      (drum 311) 
+      (bass 286) 
+      (keys 0) 
+      (vocals 217) 
+      (real_guitar 0)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1997) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 3035) 
+   (tuning_offset_cents 15.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin greenday) 
+   (encoding utf8) 
+   (album_name "Nimrod") 
+   (album_track_number 1) 
+   (vocal_tonic_note 4) 
+   (song_tonality 1))
