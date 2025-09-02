@@ -3,6 +3,9 @@
 This is a repository of DLC and Exports, converted to work in LavaManager for RB3E Wii (Rock Band 3 Enhanced).
 All songs will *eventually* be pre-packaged with upgrades from the RBHP (Rock Band Harmonies Project), RB3PLUS (Rock Band 3 Plus), and RB4PLUS (Rock Band 4 Plus).
 The goal of this repo is to make Wii more accessable, and to allow songs to be in an open-folder structure for simple adding and editing.
+Also has the bonus of a majority of the songs having *better* sound quality, and more drum tracks.
+
+(light downsampling is planned for hardware, nothing too harsh tho. think 38000 rate)
 
 Currently, not every song is 100% compatable with Wii Hardware, but should work in Dolphin no problem!
 This is being planned to be fixed up in the future. 
@@ -20,6 +23,16 @@ Reload your song list on LavaManager, and hit finalize.
 You should see your added songs in LavaManager at this point.
 
 Now just launch RB3E, and play!
+
+# CURRENT ISSUES
+
+Some songs again, are not downsampled. You WILL stutter playing them on real hardware. Fixes are coming, but not until RB1/4 DLC is done.
+
+Upgrades are also not available for every song, as I may of skimmed over it. Submit an issue if I forgot one, I will be happy to add it!
+
+Currently drum mixes are just broken, this is due to RB3 Wii bein silly. Max of 2 drum tracks. (some official wii dlc was broken because of this too!)
+
+A patched RB3DX for Dolphin and Wii that'll allow every drum mix is planned, but is just not uploaded yet. Be patient!
 
 # DOLPHIN NOTES
 
