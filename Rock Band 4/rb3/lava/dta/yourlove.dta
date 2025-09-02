@@ -1,0 +1,61 @@
+(yourlove 
+   (name "Your Love") 
+   (artist "The Outfield") 
+   (master 1) 
+   (song 
+      (name "songs/yourlove/yourlove") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6)))) 
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-1.2 -1.2 -1.2 -1.2 -1.2 -1.2 -1.2 -1.2 -1.2 -1.7 -1.7)) 
+      (cores 
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (crowd_channels 9 10) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file "songs/yourlove/yourlove.mid")) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (anim_tempo 32) 
+   (song_length 218745) 
+   (preview 32486 62486) 
+   (rank 
+      (vocals 295) 
+      (bass 112) 
+      (guitar 227) 
+      (drum 139) 
+      (band 183)) 
+   (genre poprock) 
+   (author "Harmonix, Rhythm Authors") 
+   (vocal_gender male) 
+   (version 1) 
+   (format 4) 
+   (album_art 1) 
+   (year_released 1985) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 5004) 
+   (tuning_offset_cents 0.0) 
+   (game_origin rb4) 
+   (album_name "Play Deep") 
+   (album_track_number 2) 
+   (context 2000) 
+   (decade the80s) 
+   (downloaded TRUE) 
+   (base_points 0) 
+   (vocal_tonic_note 4))

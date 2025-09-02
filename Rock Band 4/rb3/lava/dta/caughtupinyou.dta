@@ -1,0 +1,60 @@
+(caughtupinyou 
+   (name "Caught Up in You") 
+   (artist ".38 Special") 
+   (master 1) 
+   (song 
+      (name "songs/caughtupinyou/caughtupinyou") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6)))) 
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)) 
+      (cores 
+         (-1 -1 -1 1 1 -1 -1 -1 -1)) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file "songs/caughtupinyou/caughtupinyou.mid")) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (anim_tempo 32) 
+   (song_length 294865) 
+   (preview 39008 69008) 
+   (rank 
+      (vocals 248) 
+      (bass 170) 
+      (guitar 431) 
+      (drum 124) 
+      (band 260)) 
+   (genre southernrock) 
+   (author "Harmonix, Rhythm Authors") 
+   (vocal_gender male) 
+   (version 1) 
+   (format 4) 
+   (album_art 1) 
+   (year_released 1982) 
+   (rating 2) 
+   (sub_genre subgenre_southernrock) 
+   (song_id 5024) 
+   (tuning_offset_cents 0.0) 
+   (game_origin rb4) 
+   (album_name "Special Forces") 
+   (album_track_number 1) 
+   (context 2000) 
+   (decade the80s) 
+   (downloaded TRUE) 
+   (base_points 0) 
+   (vocal_tonic_note 4))

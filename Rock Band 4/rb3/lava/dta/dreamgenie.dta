@@ -1,0 +1,59 @@
+(dreamgenie 
+   (name "Dream Genie") 
+   (artist "Lightning Bolt") 
+   (master 1) 
+   (song 
+      (name "songs/dreamgenie/dreamgenie") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2 3)) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0)) 
+      (vols 
+         (-1.0 -1.0 -4.5 -4.5 -4.5 -4.5 -3.0 -3.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 1 1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (midi_file "songs/dreamgenie/dreamgenie.mid")) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (anim_tempo 64) 
+   (song_length 386302) 
+   (preview 57381 87382) 
+   (rank 
+      (vocals 441) 
+      (drum 500) 
+      (bass 480) 
+      (guitar 422) 
+      (band 474)) 
+   (genre rock) 
+   (author "Harmonix, Rhythm Authors") 
+   (vocal_gender male) 
+   (version 1) 
+   (format 4) 
+   (album_art 1) 
+   (year_released 2015) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 5068) 
+   (tuning_offset_cents 0.0) 
+   (game_origin rb4) 
+   (album_name "Fantasy Empire") 
+   (album_track_number 7) 
+   (context 2000) 
+   (decade the10s) 
+   (downloaded TRUE) 
+   (base_points 0) 
+   (vocal_tonic_note 2))
