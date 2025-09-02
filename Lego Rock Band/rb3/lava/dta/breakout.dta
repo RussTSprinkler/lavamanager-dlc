@@ -1,0 +1,64 @@
+(breakout 
+   (name "Breakout") 
+   (artist "Foo Fighters") 
+   (master 1) 
+   (song 
+      (name "songs/breakout/breakout") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -3.0 -3.0 -2.5 -3.0 -3.0 -1.0 -1.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 208140) 
+   (preview 25027 53292) 
+   (vocal_parts 2)
+   (rank 
+      (band 256) 
+      (real_keys 0) 
+      (guitar 192) 
+      (real_bass 150) 
+      (drum 309) 
+      (bass 178) 
+      (keys 0) 
+      (vocals 194) 
+      (real_guitar 264)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1999) 
+   (rating 1) 
+   (sub_genre subgenre_alternative) 
+   (song_id 754) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "There Is Nothing Left to Lose") 
+   (album_track_number 2))

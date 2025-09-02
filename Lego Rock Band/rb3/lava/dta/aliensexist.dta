@@ -1,0 +1,64 @@
+(aliensexist 
+   (name "Aliens Exist") 
+   (artist "Blink-182") 
+   (master 1) 
+   (song 
+      (name "songs/aliensexist/aliensexist") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -1.0 -1.0 -4.0 -4.0 -4.0 -3.0 -3.0 -3.5 -3.5 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/handclap_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 197881) 
+   (preview 33093 61138) 
+   (vocal_parts 2)
+   (rank 
+      (band 287) 
+      (real_keys 0) 
+      (guitar 212) 
+      (real_bass 0) 
+      (drum 387) 
+      (bass 225) 
+      (keys 0) 
+      (vocals 145) 
+      (real_guitar 0)) 
+   (genre punk) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1999) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 752) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Enema of the State") 
+   (album_track_number 3))

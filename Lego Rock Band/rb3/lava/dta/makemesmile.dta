@@ -1,0 +1,63 @@
+(makemesmile
+   (name "Make Me Smile (Come Up and See Me)") 
+   (artist "Steve Harley & Cockney Rebel") 
+   (master 1) 
+   (song 
+      (name "songs/makemesmile/makemesmile") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -1.5 -5.0 -5.0 -4.0 -3.0 -3.0 -2.5 -2.5 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 249168) 
+   (preview 69217 97469) 
+   (rank 
+      (band 192) 
+      (real_keys 310) 
+      (guitar 218) 
+      (real_bass 0) 
+      (drum 185) 
+      (bass 190) 
+      (keys 320) 
+      (vocals 331) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1975) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 771) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "The Best Years of Our Lives") 
+   (album_track_number 6))

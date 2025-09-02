@@ -1,0 +1,62 @@
+(walkingonsunshine 
+   (name "Walking on Sunshine") 
+   (artist "Katrina and the Waves") 
+   (master 1) 
+   (song 
+      (name "songs/walkingonsunshine/walkingonsunshine") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-0.5 -0.5 -0.5 -0.5 -3.5 -3.5 -3.5 -6.0 -6.0 -3.0 -3.0 -4.0 -4.0 -3.5 -3.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 13 14) 
+      (vocal_parts 2) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/handclap_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 237424) 
+   (preview 41100 69400) 
+   (rank 
+      (band 213) 
+      (real_keys 0) 
+      (guitar 211) 
+      (real_bass 1) 
+      (drum 236) 
+      (bass 229) 
+      (keys 0) 
+      (vocals 181) 
+      (real_guitar 199)) 
+   (genre poprock) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1985) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 791) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8))

@@ -1,0 +1,66 @@
+(dig 
+   (name "Dig") 
+   (artist "Incubus") 
+   (master 1) 
+   (song 
+      (name "songs/dig/dig") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10))
+	    (keys 
+	       (11 12)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.4 -1.4 -2.7 -2.7 -3.5 -3.5 -0.9 -4.2 -4.2 -1.0 -1.0 -3.0 -3.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 262496) 
+   (preview 66200 96030)
+   (vocal_parts 3) 
+   (rank 
+      (band 193) 
+      (real_keys 99) 
+      (guitar 215) 
+      (real_bass 0) 
+      (drum 188) 
+      (bass 191) 
+      (keys 96) 
+      (vocals 255) 
+      (real_guitar 0)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2006) 
+   (rating 1) 
+   (sub_genre subgenre_alternative) 
+   (song_id 758) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Light Grenades") 
+   (album_track_number 3))

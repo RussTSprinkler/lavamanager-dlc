@@ -1,0 +1,63 @@
+(wordup 
+   (name "Word Up!") 
+   (artist "KoRn") 
+   (master 1) 
+   (song 
+      (name "songs/wordup/wordup") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -3.0 -3.0 -4.0 -4.0 -3.0 -3.5 -3.5 -3.0 -3.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 171713) 
+   (preview 45399 75400) 
+   (rank 
+      (band 199) 
+      (real_keys 0) 
+      (guitar 204) 
+      (real_bass 0) 
+      (drum 221) 
+      (bass 226) 
+      (keys 0) 
+      (vocals 148) 
+      (real_guitar 0)) 
+   (genre numetal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 1) 
+   (sub_genre subgenre_numetal) 
+   (song_id 794) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Greatest Hits, Vol. 1") 
+   (album_track_number 1)

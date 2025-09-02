@@ -1,0 +1,65 @@
+(lifeisahighway 
+   (name "Life Is a Highway") 
+   (artist "Rascal Flatts") 
+   (master 1) 
+   (song 
+      (name "songs/lifeisahighway/lifeisahighway") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)) 
+            (keys 
+               (9 10)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -2.5 -4.0 -4.0 -2.0 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 257328) 
+   (preview 43000 73000) 
+   (rank 
+      (band 253) 
+      (real_keys 370) 
+      (guitar 237) 
+      (real_bass 0) 
+      (drum 221) 
+      (bass 281) 
+      (keys 370) 
+      (vocals 329) 
+      (real_guitar 0)) 
+   (genre country) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art TRUE) 
+   (year_released 2006) 
+   (rating 1) 
+   (sub_genre subgenre_other) 
+   (song_id 770) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Me and My Gang") 
+   (album_track_number 14))

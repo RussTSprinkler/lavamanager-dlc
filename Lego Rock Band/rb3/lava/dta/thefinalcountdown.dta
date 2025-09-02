@@ -1,0 +1,66 @@
+(thefinalcountdown 
+   (name "The Final Countdown") 
+   (artist "Europe") 
+   (master 1) 
+   (song 
+      (name "songs/thefinalcountdown/thefinalcountdown") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10))
+			(keys 
+               (11 12))))   		   
+      (vocal_parts 3) 			   
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-0.5 -0.5 -1.5 -1.5 -4.0 -4.0 -5.5 -7.0 -7.0 -2.0 -2.0 -4.5 -4.5 -3.0 -3.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (crowd_channels 13 14)  
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/cowbell_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 305370) 
+   (preview 102632 132632) 
+   (rank 
+      (band 268) 
+      (real_keys 327) 
+      (guitar 333) 
+      (real_bass 208) 
+      (drum 268) 
+      (bass 210) 
+      (keys 269) 
+      (vocals 181) 
+      (real_guitar 384)) 
+   (genre metal) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1986) 
+   (rating 1) 
+   (sub_genre subgenre_metal) 
+   (song_id 785) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "The Final Countdown") 
+   (album_track_number 1))

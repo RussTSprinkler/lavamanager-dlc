@@ -1,0 +1,63 @@
+(monster 
+   (name "Monster") 
+   (artist "The Automatic") 
+   (master 1) 
+   (song 
+      (name "songs/monster/monster") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 
+               (5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)))) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.5 -1.5 -4.0 -4.0 -2.5 -2.5 -2.5 -2.0 -2.0 -3.5 -3.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 226310) 
+   (preview 30478 59335) 
+   (rank 
+      (band 233) 
+      (real_keys 180) 
+      (guitar 261) 
+      (real_bass 297) 
+      (drum 297) 
+      (bass 179) 
+      (keys 240) 
+      (vocals 143) 
+      (real_guitar 377)) 
+   (genre alternative) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2006) 
+   (rating 1) 
+   (sub_genre subgenre_alternative) 
+   (song_id 772) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Not Accepted Anywhere") 
+   (album_track_number 5))

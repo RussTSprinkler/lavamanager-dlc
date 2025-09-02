@@ -1,0 +1,63 @@
+(letsdance
+   (name "Let's Dance") 
+   (artist "David Bowie") 
+   (master 1) 
+   (song 
+      (name "songs/letsdance/letsdance") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -2.0 -2.0 -2.0 -2.0 -4.0 -3.0 -3.0 -3.0 -3.0 -3.5 -3.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 297909) 
+   (preview 27861 56563) 
+   (rank 
+      (band 145) 
+      (real_keys 0) 
+      (guitar 144) 
+      (real_bass 0) 
+      (drum 160) 
+      (bass 153) 
+      (keys 0) 
+      (vocals 145) 
+      (real_guitar 0)) 
+   (genre glam) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1983) 
+   (rating 1) 
+   (sub_genre subgenre_glam) 
+   (song_id 769) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Let's Dance") 
+   (album_track_number 3))

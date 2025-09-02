@@ -1,0 +1,61 @@
+(suddenlyisee 
+   (name "Suddenly I See") 
+   (artist "KT Tunstall") 
+   (master 1) 
+   (song 
+      (name "songs/suddenlyisee/suddenlyisee") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2 3)) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -2.3 -2.3 -2.0 -2.0 -2.5 -2.5 -2.0 -2.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 203376) 
+   (preview 43932 73932) 
+   (rank 
+      (band 283) 
+      (real_keys 0) 
+      (guitar 253) 
+      (real_bass 0) 
+      (drum 330) 
+      (bass 153) 
+      (keys 0) 
+      (vocals 249) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2004) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 782) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Eye to the Telescope") 
+   (album_track_number 9))

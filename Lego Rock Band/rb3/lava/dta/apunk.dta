@@ -1,0 +1,64 @@
+(apunk 
+   (name "A-Punk") 
+   (artist "Vampire Weekend") 
+   (master 1) 
+   (song 
+      (name "songs/apunk/apunk") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7 8)))) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -0.5 -2.0 -2.0 -1.0 -3.0 -3.0 -2.5 -2.5 -1.5 -1.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/handclap_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_length 142600) 
+   (preview 33070 61331) 
+   (vocal_parts 3)
+   (rank 
+      (band 257) 
+      (real_keys 0) 
+      (guitar 221) 
+      (real_bass 362) 
+      (drum 271) 
+      (bass 231) 
+      (keys 0) 
+      (vocals 174) 
+      (real_guitar 407)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2008) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 753) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Vampire Weekend") 
+   (album_track_number 3))

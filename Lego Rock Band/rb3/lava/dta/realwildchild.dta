@@ -1,0 +1,59 @@
+(realwildchild
+   (name "Real Wild Child")
+   (artist "Everlife")
+   (master TRUE)
+   (context 911)
+   (song
+     (name "songs/realwildchild/realwildchild")
+     (tracks
+        (
+		(drum 
+		  (0 1))
+		(bass 
+		  (2))
+        (guitar 
+		  (3 4))
+        (vocals 
+		  (5 6))))
+        )
+     (pans 
+	(-1.0  1.0   0.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols 
+	(-1.0 -1.0  -4.0  -5.5 -5.5  -3.7 -3.7  -6.0 -6.0))
+     (cores 
+	(-1   -1    -1     1    1    -1   -1    -1   -1 ))
+     (vocal_parts 3)
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo kTempoMedium)
+   (preview 46718 76718)
+   (rank
+      (drum 358)
+      (guitar 280)
+      (bass 190)
+      (vocals 440)
+      (band 285)
+   )
+   (genre poprock)
+   (decade the00s)
+   (vocal_gender female)
+   (format 4)
+   (version 3)
+   (fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin lego)
+   (song_id 774) 
+   (rating 1)
+   (short_version 119002)
+   (album_art TRUE)
+   (year_released 2007)
+   (album_name "Everlife")
+   (album_track_number 11)
+   (base_points 592223)
+)

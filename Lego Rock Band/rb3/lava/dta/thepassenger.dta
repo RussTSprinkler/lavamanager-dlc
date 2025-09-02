@@ -1,0 +1,61 @@
+(thepassenger 
+   (name "The Passenger") 
+   (artist "Iggy Pop") 
+   (master 1) 
+   (song 
+      (name "songs/thepassenger/thepassenger") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4 5)) 
+            (bass 
+               (6)) 
+            (guitar 
+               (7 8)) 
+            (vocals 
+               (9 10)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.0 -3.0 -2.0 -2.0 -3.0 -3.0 -1.0 -3.0 -3.0 -1.0 -1.0 -4.0 -4.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 292620) 
+   (preview 53893 83894) 
+   (rank 
+      (band 202) 
+      (real_keys 0) 
+      (guitar 203) 
+      (real_bass 0) 
+      (drum 201) 
+      (bass 121) 
+      (keys 0) 
+      (vocals 128) 
+      (real_guitar 0)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art TRUE) 
+   (year_released 1977) 
+   (rating 1) 
+   (sub_genre subgenre_rock) 
+   (song_id 786) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin lego) 
+   (encoding utf8) 
+   (album_name "Lust for Life") 
+   (album_track_number 4))
