@@ -1,0 +1,70 @@
+(sowhatchawant
+   (name "So What'cha Want") 
+   (artist "Beastie Boys") 
+   (master 1) 
+   (song 
+      (name "songs/sowhatchawant/sowhatchawant") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6))
+            (keys 
+               (7 8))))		   
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.3 -3.3 -4.5 -5.0 -5.0 -4.0 -4.0 -3.5 -3.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 3) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/handclap_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 220740) 
+   (preview 33368 59350) 
+   (rank 
+      (band 116) 
+      (real_keys 170) 
+      (guitar 144) 
+      (real_bass 42) 
+      (drum 135) 
+      (bass 106) 
+      (keys 220) 
+      (vocals 219) 
+      (real_guitar 100)) 
+   (genre rock) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1992) 
+   (rating 2) 
+   (sub_genre subgenre_rock) 
+   (song_id 311) 
+   (solo 
+      (vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb2) 
+   (encoding utf8) 
+   (album_name "Check Your Head") 
+   (album_track_number 7)
+   (author "Harmonix, Strings: RK")   
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

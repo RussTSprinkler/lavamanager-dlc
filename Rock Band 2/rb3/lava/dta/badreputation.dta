@@ -1,0 +1,63 @@
+(badreputation 
+   (name "Bad Reputation") 
+   (artist "Joan Jett") 
+   (master TRUE) 
+   (song_id 259) 
+   (song 
+      (vocal_parts 3) 
+      (name "songs/badreputation/badreputation") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4)) 
+            (guitar 
+               (5 6)) 
+            (vocals 
+               (7)) 
+            (keys 
+               (8 9)))) 
+      (crowd_channels 10 11) 
+      (pans 
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-0.5 -0.5 -1.5 -1.5 -3.5 -5.0 -5.0 -1.0 -3.5 -3.5 -4.2 -4.2)) 
+      (cores 
+         (-1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoFast) 
+   (song_scroll_speed 2300) 
+   (preview 51879 79719) 
+   (song_length 171818) 
+   (solo 
+      (guitar)) 
+   (rank 
+      (drum 400) 
+      (guitar 228) 
+      (real_guitar 208) 
+      (bass 229) 
+      (real_bass 209) 
+      (vocals 268) 
+      (keys 385) 
+      (real_keys 385) 
+      (band 364)) 
+   (format 10) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb2) 
+   (short_version 0) 
+   (rating 2) 
+   (genre punk) 
+   (vocal_gender female)
+   (author "Harmonix, Strings: RK")   
+   (year_released 1980) 
+   (album_art TRUE) 
+   (album_name "Joan Jett") 
+   (album_track_number 1))

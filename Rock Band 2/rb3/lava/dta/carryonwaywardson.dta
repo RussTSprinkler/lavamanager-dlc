@@ -1,0 +1,64 @@
+(carryonwaywardson 
+   (name "Carry On Wayward Son") 
+   (artist "Kansas") 
+   (master TRUE) 
+   (song_id 262) 
+   (song 
+      (vocal_parts 3) 
+      (name "songs/carryonwaywardson/carryonwaywardson") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3)) 
+            (bass 
+               (4 5)) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)) 
+            (keys 
+               (10 11)))) 
+      (crowd_channels 12 13) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)) 
+      (vols 
+         (-3.5 -3.7 -3.7 -5.0 -4.5 -4.5 -5.3 -5.3 2.5 2.5 -2.7 -2.7 -3.4 -3.4)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/cowbell3_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_scroll_speed 2300) 
+   (preview 103400 123250) 
+   (song_length 326363) 
+   (solo 
+      (guitar vocal_percussion)) 
+   (rank 
+      (drum 168) 
+      (guitar 379) 
+      (real_guitar 373) 
+      (bass 412) 
+      (real_bass 428) 
+      (vocals 411) 
+      (keys 469) 
+      (real_keys 474) 
+      (band 433)) 
+   (format 10) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb2) 
+   (short_version 0) 
+   (rating 2) 
+   (genre prog) 
+   (vocal_gender male)
+   (author "Harmonix, Strings: espher (initial pro charts), RK (final pro charts, manual EMH reductions")   
+   (year_released 1976) 
+   (album_art TRUE) 
+   (album_name "Leftoverture") 
+   (album_track_number 1) 
+   (tuning_offset_cents 25))
