@@ -5,10 +5,10 @@ All songs will *eventually* be pre-packaged with upgrades from the RBHP (Rock Ba
 The goal of this repo is to make Wii more accessable, and to allow songs to be in an open-folder structure for simple adding and editing.
 Also has the bonus of a majority of the songs having *better* sound quality, and more drum tracks.
 
-(light downsampling is planned for hardware, nothing too harsh tho. think 38000 rate)
-
 Currently, not every song is 100% compatable with Wii Hardware, but should work in Dolphin no problem!
 This is being planned to be fixed up in the future. 
+
+(light downsampling is planned for hardware, nothing too harsh tho. think 38000 rate)
 
 Try it on Wii at your own risk!
 
