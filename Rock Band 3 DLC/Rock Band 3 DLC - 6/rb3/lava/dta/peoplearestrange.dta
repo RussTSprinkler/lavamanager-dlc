@@ -1,0 +1,62 @@
+(peoplearestrange 
+   (name "People Are Strange") 
+   (artist "The Doors") 
+   (master TRUE) 
+   (song_id 1010021) 
+   (song 
+      (name "songs/peoplearestrange/peoplearestrange") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2 3)) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)) 
+            (keys 
+               (8 9)))) 
+      (vocal_parts 1) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5)) 
+      (cores 
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_scroll_speed 2300) 
+   (preview 22987 52987) 
+   (song_length 134234) 
+   (rank 
+      (drum 165) 
+      (guitar 200) 
+      (bass 136) 
+      (vocals 173) 
+      (keys 245) 
+      (real_guitar 0) 
+      (real_bass 0) 
+      (real_keys 240) 
+      (band 206)) 
+   (solo 
+      (guitar keys)) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 1) 
+   (genre classicrock) 
+   (vocal_gender male) 
+   (short_version 0) 
+   (year_released 1967) 
+   (album_art TRUE) 
+   (album_name "Strange Days") 
+   (album_track_number 7) 
+   (vocal_tonic_note 4) 
+   (song_tonality 1))
