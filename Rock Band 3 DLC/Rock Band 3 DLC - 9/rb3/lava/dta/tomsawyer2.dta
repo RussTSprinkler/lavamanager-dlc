@@ -1,0 +1,72 @@
+(tomsawyer2 
+   (name "Tom Sawyer (Original Version)") 
+   (artist "Rush") 
+   (master 1) 
+   (song 
+      (name "songs/tomsawyer2/tomsawyer2") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2)) 
+            (guitar 
+               (3 4)) 
+            (vocals 
+               (5 6)) 
+            (keys 
+               (7 8)))) 
+      (pans 
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.0 -3.0 -1.5 -2.5 -2.5 -5.0 -5.0 -2.0 -2.0 -2.5 -2.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 1) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_length 293018) 
+   (preview 9900 39899) 
+   (rank 
+      (band 248) 
+      (real_keys 277) 
+      (guitar 252) 
+      (real_bass 330) 
+      (drum 358) 
+      (bass 225) 
+      (keys 217) 
+      (vocals 157) 
+      (real_guitar 413)) 
+   (genre prog) 
+   (vocal_gender male) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1981) 
+   (rating 1) 
+   (sub_genre subgenre_progrock) 
+   (song_id 1005231) 
+   (solo 
+      (guitar keys vocal_percussion)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb3dlc) 
+   (encoding utf8) 
+   (album_name "Moving Pictures") 
+   (album_track_number 1) 
+   (vocal_tonic_note 4) 
+   (song_tonality 1)
+   (author "Harmonix, Strings: RK")   
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

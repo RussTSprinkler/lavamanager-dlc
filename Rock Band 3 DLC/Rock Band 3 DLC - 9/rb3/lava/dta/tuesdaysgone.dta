@@ -1,0 +1,61 @@
+(tuesdaysgone 
+   (name "Tuesday's Gone") 
+   (artist "Lynyrd Skynyrd") 
+   (master TRUE) 
+   (song_id 1010088) 
+   (song 
+      (name "songs/tuesdaysgone/tuesdaysgone") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 3) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)) 
+            (keys 
+               (8 9)))) 
+      (vocal_parts 3) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.5 -4.5 -4.5 -1.7 -4.7 -4.7 -4.5 -4.5 -2.6 -2.6 -5.0 -5.0)) 
+      (cores 
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_scroll_speed 2300) 
+   (preview 80000 110000) 
+   (song_length 478051) 
+   (rank 
+      (drum 211) 
+      (guitar 290) 
+      (bass 295) 
+      (vocals 252) 
+      (keys 395) 
+      (real_guitar 0) 
+      (real_bass 0) 
+      (real_keys 414) 
+      (band 301)) 
+   (solo 
+      (sologuitar keys)) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 2) 
+   (genre southernrock) 
+   (vocal_gender male) 
+   (short_version 105076) 
+   (year_released 1973) 
+   (album_art TRUE) 
+   (album_name "(pronounced 'leh-'nérd 'skin-'nérd)") 
+   (album_track_number 2) 
+   (vocal_tonic_note 11) 
+   (song_tonality 0))
