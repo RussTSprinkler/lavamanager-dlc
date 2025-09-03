@@ -1,0 +1,69 @@
+(yyz 
+   (name "YYZ") 
+   (artist "Rush") 
+   (master 1) 
+   (song 
+      (name "songs/yyz/yyz") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2 3)) 
+            (guitar 
+               (4 5)) 
+            (keys 
+               (6 7)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-1.0 -1.0 -3.0 -3.0 -3.0 -3.0 -2.0 -2.0 -3.0 -3.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 0) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_length 270867) 
+   (preview 60776 90776) 
+   (rank 
+      (band 350) 
+      (real_keys 40) 
+      (guitar 320) 
+      (real_bass 424) 
+      (drum 405) 
+      (bass 336) 
+      (keys 40) 
+      (vocals 0) 
+      (real_guitar 444)) 
+   (genre prog) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 1981) 
+   (rating 1) 
+   (sub_genre subgenre_progrock) 
+   (song_id 1005229) 
+   (solo 
+      (guitar)) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin rb3dlc) 
+   (encoding utf8) 
+   (album_name "Moving Pictures") 
+   (album_track_number 3) 
+   (vocal_tonic_note 7) 
+   (song_tonality 0) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)))

@@ -1,0 +1,64 @@
+(wewerentborn 
+   (name "We Weren't Born to Follow") 
+   (artist "Bon Jovi") 
+   (master TRUE) 
+   (song_id 1010072) 
+   (song 
+      (name "songs/wewerentborn/wewerentborn") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2 3 4)) 
+            (bass 5) 
+            (guitar 
+               (6 7)) 
+            (vocals 
+               (8 9)) 
+            (keys 
+               (10 11)))) 
+      (vocal_parts 3) 
+      (pans 
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-0.5 -2.0 -2.0 -7.0 -7.0 -5.5 -9.5 -9.5 -7.0 -7.0 -8.0 -8.0 -4.5 -4.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (band_fail_cue band_fail_rock_keys.cue) 
+   (song_scroll_speed 2300) 
+   (preview 54000 77000) 
+   (song_length 257596) 
+   (rank 
+      (drum 133) 
+      (guitar 250) 
+      (bass 202) 
+      (vocals 255) 
+      (keys 168) 
+      (real_guitar 0) 
+      (real_bass 0) 
+      (real_keys 169) 
+      (band 177)) 
+   (solo 
+      (guitar)) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 2) 
+   (genre rock) 
+   (vocal_gender male) 
+   (short_version 111000) 
+   (year_released 2009) 
+   (year_recorded 2010) 
+   (album_art TRUE) 
+   (album_name "Greatest Hits") 
+   (album_track_number 7) 
+   (vocal_tonic_note 11) 
+   (song_tonality 0))
