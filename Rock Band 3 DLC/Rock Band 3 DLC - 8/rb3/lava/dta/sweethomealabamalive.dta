@@ -1,0 +1,63 @@
+(sweethomealabamalive 
+   (name "Sweet Home Alabama (Live)") 
+   (artist "Lynyrd Skynyrd") 
+   (master TRUE) 
+   (song_id 1010095) 
+   (song 
+      (name "songs/sweethomealabamalive/sweethomealabamalive") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 3) 
+            (guitar 
+               (4 5)) 
+            (vocals 
+               (6 7)) 
+            (keys 
+               (8 9)))) 
+      (vocal_parts 3) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (-3.0 -6.0 -6.0 -1.5 -6.0 -6.0 -5.0 -5.0 -6.0 -6.0 -6.0 -6.0)) 
+      (cores 
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoSlow) 
+   (song_scroll_speed 2300) 
+   (preview 70852 100852) 
+   (song_length 389406) 
+   (rank 
+      (drum 193) 
+      (guitar 490) 
+      (real_guitar 446) 
+      (bass 370) 
+      (real_bass 430) 
+      (vocals 219) 
+      (keys 477) 
+      (real_keys 475) 
+      (band 325)) 
+   (solo 
+      (guitar keys) 
+      (real_guitar 446)) 
+   (format 10) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 2) 
+   (genre southernrock) 
+   (vocal_gender male) 
+   (short_version 139559) 
+   (year_released 1976) 
+   (album_art TRUE) 
+   (album_name "One More From The Road") 
+   (album_track_number 8) 
+   (vocal_tonic_note 2) 
+   (song_tonality 0))
