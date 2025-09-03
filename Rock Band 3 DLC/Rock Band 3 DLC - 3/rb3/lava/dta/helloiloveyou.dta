@@ -1,0 +1,59 @@
+(helloiloveyou 
+   (name "Hello, I Love You") 
+   (artist "The Doors") 
+   (master TRUE) 
+   (song_id 1010010) 
+   (song 
+      (name "songs/helloiloveyou/helloiloveyou") 
+      (tracks 
+         (
+            (drum 
+               (0 1 2)) 
+            (bass 3) 
+            (guitar 
+               (4 5)) 
+            (vocals 6) 
+            (keys 
+               (7 8)))) 
+      (vocal_parts 2) 
+      (pans 
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 0.0 -1.0 1.0 0.0)) 
+      (vols 
+         (-3.5 -4.0 -4.0 -4.5 -6.0 -6.0 -2.5 -6.0 -6.0 -13.5)) 
+      (cores 
+         (-1 -1 -1 -1 -1 1 -1 -1 -1 -1)) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))) 
+   (bank sfx/tambourine_bank.milo) 
+   (anim_tempo kTempoMedium) 
+   (song_scroll_speed 2300) 
+   (preview 13406 33406) 
+   (song_length 151401) 
+   (rank 
+      (drum 250) 
+      (guitar 175) 
+      (bass 195) 
+      (vocals 225) 
+      (keys 362) 
+      (real_guitar 0) 
+      (real_bass 0) 
+      (real_keys 367) 
+      (band 235)) 
+   (format 10) 
+   (version 1) 
+   (game_origin rb3dlc) 
+   (rating 1) 
+   (genre classicrock) 
+   (vocal_gender male) 
+   (short_version 0) 
+   (year_released 1968) 
+   (album_art TRUE) 
+   (album_name "Waiting for the Sun") 
+   (album_track_number 1) 
+   (vocal_tonic_note 9) 
+   (song_tonality 0) 
+   (tuning_offset_cents -20))
