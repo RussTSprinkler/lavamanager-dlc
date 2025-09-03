@@ -1,0 +1,120 @@
+(
+   'blackmagicgypsyqueen'
+   (
+      'name'
+      "Black Magic Woman/Gypsy Queen"
+   )
+   (
+      'artist'
+      "Santana"
+   )
+   ('master' 'TRUE')
+   ('song_id' 1002)
+   (
+      'song'
+      (
+         'name'
+         "songs/blackmagicgypsyqueen/blackmagicgypsyqueen"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5)
+            )
+            (
+               'keys'
+               (6)
+            )
+         )
+      )
+      ('vocal_parts' 1)
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 0.0 -0.5 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -2.0 -4.5 -4.5 0.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+   )
+   ('bank' 'sfx/tambourine_bank.milo')
+   ('anim_tempo' 'kTempoSlow')
+   ('band_fail_cue' 'band_fail_vintage_keys.cue')
+   ('song_scroll_speed' 2300)
+   ('preview' 86800 109200)
+   ('song_length' 325000)
+   (
+      'rank'
+      ('drum' 451)
+      ('guitar' 221)
+      ('bass' 181)
+      ('vocals' 421)
+      ('keys' 311)
+      ('real_guitar' 121)
+      ('real_bass' 121)
+      ('real_keys' 311)
+      ('band' 300)
+   )
+   (solo (guitar drum vocal_percussion))
+   ('format' 10)
+   ('version' 30)
+   (
+      'game_origin'
+      #ifdef CUSTOMSOURCE
+      'rb3_beta'
+      #else
+      'rb3_dlc'
+      #endif
+   )
+   ('short_version' 183292)
+   ('rating' 1)
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('year_released' 1970)
+   ('album_art' 'TRUE')
+   (
+      'album_name'
+      "Abraxas"
+   )
+   ('album_track_number' 2)
+   (
+      'author'
+      "Harmonix"
+   )
+   ('vocal_tonic_note' 11)
+   ('song_tonality' 1)
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)

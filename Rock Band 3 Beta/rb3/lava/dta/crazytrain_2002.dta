@@ -1,0 +1,117 @@
+(
+   'crazytrain_2002'
+   (
+      'name'
+      "Crazy Train (2002 version)"
+   )
+   (
+      'artist'
+      "Ozzy Osbourne"
+   )
+   ('master' 'TRUE')
+   ('song_id' 3531009)
+   (
+      'song'
+      (
+         'name'
+         "songs/crazytrain_2002/crazytrain_2002"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      ('vocal_parts' 2)
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-4.5 -4.5 -2.0 -3.5 -3.5 -4.5 -4.5 -4.5 -4.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+   )
+   ('bank' 'sfx/tambourine_bank.milo')
+   ('anim_tempo' 'kTempoMedium')
+   ('band_fail_cue' 'band_fail_heavy_keys.cue')
+   ('song_scroll_speed' 2300)
+   ('preview' 77000 107000)
+   ('song_length' 331721)
+   (
+      'rank'
+      ('drum' 481)
+      ('guitar' 441)
+      ('bass' 458)
+      ('vocals' 131)
+      ('keys' 0)
+      ('real_keys' 0)
+      ('real_guitar' 480)
+      ('real_bass' 441)
+      ('band' 378)
+   )
+   (solo (guitar))
+   ('format' 10)
+   ('version' 30)
+   (
+      'game_origin'
+      #ifdef CUSTOMSOURCE
+      'rb3_beta'
+      #else
+      'rb3_dlc'
+      #endif
+   )
+   ('short_version' 95000)
+   ('rating' 2)
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('year_released' 1980)
+   ('year_recorded' 2002)
+   ('album_art' 'TRUE')
+   (
+      'album_name'
+      "Blizzard of Ozz (2002 Re-Master)"
+   )
+   ('album_track_number' 2)
+   (
+      'author'
+      "Harmonix"
+   )
+   ('vocal_tonic_note' 6)
+   ('song_tonality' 1)
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)

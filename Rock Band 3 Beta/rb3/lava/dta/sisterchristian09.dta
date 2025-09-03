@@ -1,0 +1,122 @@
+(
+   'sisterchristian09'
+   (
+      'name'
+      "Sister Christian '09"
+   )
+   (
+      'artist'
+      "Night Ranger"
+   )
+   ('master' 'TRUE')
+   ('song_id' 3531004)
+   (
+      'song'
+      (
+         'name'
+         "songs/sisterchristian09/sisterchristian09"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5)
+            )
+            (
+               'keys'
+               (6 7)
+            )
+         )
+      )
+      ('vocal_parts' 3)
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -0.3)
+      )
+      (
+         'vols'
+         (0.0 0.0 -3.0 -4.5 -4.5 -2.5 -4.0 -4.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+   )
+   ('bank' 'sfx/tambourine_bank.milo')
+   (drum_bank sfx/kit02_bank.milo)
+   ('anim_tempo' 'kTempoSlow')
+   ('band_fail_cue' 'band_fail_rock_keys.cue')
+   ('song_scroll_speed' 2300)
+   ('preview' 68000 98000)
+   ('song_length' 309000)
+   (
+      'rank'
+      ('drum' 180)
+      ('guitar' 150)
+      ('bass' 170)
+      ('vocals' 180)
+      ('keys' 310)
+      ('real_guitar' 323)
+      ('real_bass' 323)
+      ('real_keys' 310)
+      ('band' 270)
+   )
+   (solo (guitar))
+   ('format' 10)
+   ('version' 30)
+   (
+      'game_origin'
+      #ifdef CUSTOMSOURCE
+      'rb3_beta'
+      #else
+      'rb3_dlc'
+      #endif
+   )
+   ('short_version' 123500)
+   ('rating' 1)
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('year_released' 1983)
+   ('year_recorded' 2009)
+   ('album_art' 'TRUE')
+   (
+      'album_name'
+      "Night Ranger Rock Band Re-Record"
+   )
+   ('album_track_number' 3)
+   (
+      'author'
+      "Harmonix"
+   )
+   ('vocal_tonic_note' 0)
+   ('song_tonality' 0)
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)
