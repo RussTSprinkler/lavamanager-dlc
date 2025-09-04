@@ -24,7 +24,7 @@ Now just launch RB3E, and play!
 
 # CURRENT ISSUES
 
-Some songs again, are not downsampled. You WILL stutter playing them on real hardware. Fixes are coming, but not until RB1/4 DLC is done.
+Some songs are not downsampled. You WILL stutter playing them on real hardware. Fixes are coming, but not until RB1/4 DLC is done.
 
 Upgrades are also not available for every song, as I may of skimmed over it. Submit an issue if I forgot one, I will be happy to add it!
 
