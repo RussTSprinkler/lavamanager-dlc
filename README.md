@@ -8,8 +8,6 @@ Also has the bonus of a majority of the songs having "*better*" sound quality, a
 Currently, not every song is 100% compatable with Wii Hardware, but should work in Dolphin no problem!
 This is being planned to be fixed up in the future. 
 
-(light downsampling is planned for hardware, nothing too harsh tho. think 38000 rate)
-
 Try it on Wii at your own risk!
 
 (please note Wii online multiplayer has not been tested, but again Dolphin should be a-ok)
