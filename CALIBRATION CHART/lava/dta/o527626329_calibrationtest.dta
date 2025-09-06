@@ -1,0 +1,66 @@
+(o527626329_calibrationtest 
+   (name "¡CALIBRATION TEST CHART!") 
+   (artist "¡CALIBRATION TEST CHART!") 
+   (master 1) 
+   (song 
+      (name "songs/o527626329_calibrationtest/o527626329_calibrationtest") 
+      (tracks 
+         (
+            (drum 
+               (0 1)) 
+            (bass 
+               (2 3)) 
+            (guitar 
+               (4 5)) 
+            (keys 
+               (6 7)))) 
+      (pans 
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)) 
+      (vols 
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)) 
+      (cores 
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1)) 
+      (vocal_parts 0) 
+      (drum_solo 
+         (seqs 
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue))) 
+      (drum_freestyle 
+         (seqs 
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))) 
+      (hopo_threshold 170)) 
+   (song_scroll_speed 2300) 
+   (bank "sfx/tambourine_bank.milo") 
+   (drum_bank sfx/kit01_bank.milo) 
+   (anim_tempo 32) 
+   (song_length 261500) 
+   (preview 3000 33000) 
+   (rank 
+      (band 1) 
+      (real_keys 1) 
+      (guitar 1) 
+      (real_bass 1) 
+      (drum 1) 
+      (bass 1) 
+      (keys 1) 
+      (vocals 0) 
+      (real_guitar 1)) 
+   (genre other) 
+   (vocal_gender female) 
+   (version 1) 
+   (format 10) 
+   (album_art 1) 
+   (year_released 2024) 
+   (rating 2) 
+   (sub_genre subgenre_other) 
+   (song_id 82571876) 
+   (tuning_offset_cents 0.0) 
+   (guide_pitch_volume -3.0) 
+   (game_origin ugc_plus) 
+   (encoding utf8) 
+   (album_name "¡CALIBRATION TEST CHART!") 
+   (album_track_number 0) 
+   (real_guitar_tuning 
+      (0 0 0 0 0 0)) 
+   (real_bass_tuning 
+      (0 0 0 0)) 
+   (author "¡CALIBRATION TEST CHART!"))
